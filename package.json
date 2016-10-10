@@ -4,11 +4,12 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "test": "webpack-dev-server --host 0.0.0.0 --port 8000 --inline"
+    "start": "webpack-dev-server --host 0.0.0.0 --port 8000 --inline"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "email-validator": "^1.0.7",
     "html-webpack-plugin": "^2.22.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",

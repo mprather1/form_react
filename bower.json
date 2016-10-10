@@ -1,0 +1,20 @@
+{
+  "name": "webpack",
+  "description": "",
+  "main": "webpack.config.js",
+  "authors": [
+    "Michael Prather <mprather1@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mprather1/webpack",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
